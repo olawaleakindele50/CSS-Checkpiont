@@ -1,0 +1,38 @@
+body {
+    font-family: roboto;
+    background-color: azure;
+    margin: 0px;
+    padding: 0px;
+    width: 100%;
+
+
+}
+#navbar {
+    
+    text-decoration: none;
+    background-color: rgb(214, 214, 193);
+    
+}
+
+.navLinks{
+    
+    list-style: none;
+    text-decoration: none;
+    width: 100%;
+    display: inline;
+    
+    
+    
+
+    
+    
+}
+
+.navLinks a {
+
+    text-decoration: none;
+}
+
+.image {
+    padding-top: 90px;
+}
